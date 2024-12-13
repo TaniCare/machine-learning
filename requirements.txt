@@ -1,0 +1,28 @@
+# Core ML/DL Libraries
+tensorflow>=2.17.1
+numpy
+pandas
+scikit-learn
+pillow
+opencv-python
+
+# Data Processing & Visualization
+matplotlib
+seaborn
+
+# Jupyter Environment
+jupyter
+notebook
+ipython
+
+# Utilities
+tqdm
+typing
+kaggle
+
+# Optional but recommended for GPU support
+tensorflow-gpu
+
+# Development Tools
+black  # for code formatting
+pylint  # for code analysis
